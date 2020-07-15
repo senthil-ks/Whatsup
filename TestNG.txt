@@ -47,3 +47,6 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	This is the Maven repo
+	
